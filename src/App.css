@@ -5,11 +5,18 @@
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  padding: 20px;    
+  padding: 20px;
 }
 
 h1 {
   font-size: 50px;
+  text-align: center;
+  padding: 0 0 20px;
+}
+@media (max-width: 991px) {
+  h1 {
+    font-size: 30px;
+  }
 }
 
 span {
@@ -17,11 +24,11 @@ span {
 }
 
 .area-input {
-  width: 500px;
+  width: 100%;
+  max-width: 500px;
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 20px;  
 }
 
 .area-input input {
