@@ -1,6 +1,6 @@
 # Sobre o projeto
 
-Projeto de uma calculadora IMC com o objetivo de para reforçar os principios do React.
+Projeto de uma calculadora IMC com o objetivo de reforçar os principios do React.
 
 ---
 
