@@ -66,4 +66,10 @@ span {
 
 h2 {
   margin-top: 28px;
+  text-align: center;
+}
+@media(max-width: 991px) {
+  h2 {
+    font-size: 20px;
+  }
 }
