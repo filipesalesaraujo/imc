@@ -13,7 +13,7 @@ https://imc-filipesalesaraujo.vercel.app/
 $ git clone https://github.com/filipesalesaraujo/imc.git
 
 # Entre na pasta do repositório clonado
-$ cd nextauth
+$ cd imc
 ```
 
 # Iniciando o projeto
